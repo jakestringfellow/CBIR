@@ -2,7 +2,7 @@
 
 ## Project Description: 
 * *Please refer to the Project Report pdf to see some example output filenames (and the images they represent). Ability to display target image and 
-   similar images within a GUI will be updated to this proejct later.*
+   similar images within a GUI will be updated to this project later.*
 * The Content-Based Image Retrieval project includes functionality to find and return the names of images from a given database most
   “similar” to an image given by a user. The user can choose between five different methods of computing features that will be used to match 
   images. All of the methods read in the image given by the user, read in the database given by the user, and return the number of similar images 
